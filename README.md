@@ -16,7 +16,7 @@ Start planning the tests you'll need to write to check your CodeWarriors' soluti
 
 👉 Install `jest` as a dev dependency, and update the `scripts` section in [package.json](package.json) accordingly.
 
-👉 Enable ESM for the project and Jest (if needed, see: https://jestjs.io/docs/ecmascript-modules).
+👉 Enable ESM for the project and Jest (if needed, see: https:/node --experimental-vm-modules node_modules/jest/bin/jest.js/jestjs.io/docs/ecmascript-modules).
 
 👉 Write enough tests in [main.test.js](main.test.js) so that you can be reasonably assured that when your CodeWarrior tests their solution to your kata, if the tests pass, it works.
 
